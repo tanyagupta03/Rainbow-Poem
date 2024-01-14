@@ -1,0 +1,8 @@
+The Rainbow
+
+purple
+pink
+orange
+magenta
+red
+These are the colors of the rainbow.
