@@ -2,10 +2,10 @@ The Rainbow and the Unicorn
 
 purple
 pink
+Indigo
 green
 orange
 Unicorn
-Indigo
 magenta
 red
 These are the colors of the rainbow.
